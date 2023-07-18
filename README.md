@@ -9,7 +9,7 @@
 
 [Versionamento de Código com Git e GitHub](https://sincere-unicorn-403.notion.site/Versionamento-de-C-digo-com-Git-e-GitHub-92d1c1703ee74c8c94d9f4a364bf98d4?pvs=4)
 
-[Digital Innovation One](https://web.dio.me/home) 
+[Digital Innovation One](https://www.dio.me/en) 
 
 ## 📚 Documentação 
 
