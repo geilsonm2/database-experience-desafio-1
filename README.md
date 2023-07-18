@@ -15,6 +15,7 @@
 
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
+- [Documentação Sobre Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Comandos básicos para utilizar no GitBash
 ```
