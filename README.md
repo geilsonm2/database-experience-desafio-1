@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geilson-marcelo-santos-maciel-7a16b4192/)
 
 ### Links para resumos 
-💡 É necessário que realize o login ou se cadastre no Notion para acessar as anotações abaixo !!
+💡 *É necessário que realize o login ou se cadastre no Notion para acessar as anotações abaixo !!*
 
 [Introdução ao Git e GitHub](https://sincere-unicorn-403.notion.site/Introdu-o-ao-Git-e-GitHub-732e3787de414dd48fdae948a007eecd?pvs=4)
 
